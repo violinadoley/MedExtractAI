@@ -11,7 +11,7 @@ MedExtractAI extracts valuable healthcare-related data from top hospitals and us
 
 1. **Data Collection**: Identify the top 50 hospitals worldwide and scrape relevant data from their websites.
 2. **Data Cleaning**: Clean the scraped data and prepare it for model training.
-3. **Model Training**: Use the cleaned data to train a Private GPT model (available on GitHub).
+3. **Model Training**: Use the cleaned data to train a Private GPT model.
 
 ---
 
